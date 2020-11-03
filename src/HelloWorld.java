@@ -2,7 +2,11 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("5 Jahre bei der Uni Köln!");
+
+		System.out.println("5 Jahre bei der Uni Kï¿½ln!");
+
+		System.out.println("Evangelos Eleftheriadis");
+
 		
 	}
 
